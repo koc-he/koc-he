@@ -10,8 +10,18 @@ I'm a Software Engineer.
 
 <h1><img src="/images/icons/titles/Star.png" alt="Star" width="40" height="40" /> Overview</h1>
 <img width=515 src="https://grs.hkoske.com/?username=koc-he&count_private=true&include_all_commits=true&bg_color=45,00DBDE,FC00FF&title_color=ffffff&text_color=ffffff&border_radius=10&show_icons=true&icon_color=ffffff" />
-<img width=518 src="https://streak-stats.demolab.com/?user=koc-he&theme=modern-lilac2" />
+<img width=518 src="https://streak-stats.demolab.com/?user=koc-he&theme=modern-lilac2&border_radius=10&background=000000&border=ffffff" />
 <img src="https://grs.hkoske.com/top-langs?username=koc-he&layout=donut&theme=midnight-purple&border_radius=10" />
+
+
+
+<h1><img src="/images/icons/titles/Rocket.png" alt="Rocket" width="25" height="25" /> Recent Projects</h1>
+<a href="https://github.com/koc-he/share">
+  <img src="https://grs.hkoske.com/pin?username=koc-he&repo=share&bg_color=45,00DBDE,FC00FF&title_color=ffffff&text_color=ffffff&border_radius=10&show_icons=true&icon_color=ffffff" />
+</a>
+<a href="https://github.com/koc-he/code-block-annotation">
+<img src="https://grs.hkoske.com/pin?username=koc-he&repo=code-block-annotation&bg_color=45,00DBDE,FC00FF&title_color=ffffff&text_color=ffffff&border_radius=10&show_icons=true&icon_color=ffffff" />
+</a>
 
 
 <h1><img src="/images/icons/titles/Fire.png" alt="Fire" width="40" height="40" /> My Skills</h1>
@@ -23,11 +33,3 @@ I'm a Software Engineer.
 |Cloud | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)|
 |Databases | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)|
 
-
-<h1><img src="/images/icons/titles/Rocket.png" alt="Rocket" width="25" height="25" /> Recent Projects</h1>
-<a href="https://github.com/koc-he/share">
-  <img src="https://grs.hkoske.com/pin?username=koc-he&repo=share&bg_color=45,00DBDE,FC00FF&title_color=ffffff&text_color=ffffff&border_radius=10&show_icons=true&icon_color=ffffff" />
-</a>
-<a href="https://github.com/koc-he/code-block-annotation">
-<img src="https://grs.hkoske.com/pin?username=koc-he&repo=code-block-annotation&bg_color=45,00DBDE,FC00FF&title_color=ffffff&text_color=ffffff&border_radius=10&show_icons=true&icon_color=ffffff" />
-</a>
