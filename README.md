@@ -1,4 +1,4 @@
-![banner](gh-banner.png)
+![banner](/images/gh-banner.png)
 
 <h1><img src="/images/icons/titles/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" /> Hello, there!</h1>
 
