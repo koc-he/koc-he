@@ -1,0 +1,16 @@
+name: '❓ Ask a Question'
+description: Ask me question
+title: "[Question] "
+labels: ["question"]
+assignees: ["koc-he"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for asking your question! I'll get back to you as soon as I can. 😸
+  - type: textarea
+    id: description
+    attributes:
+      label: What is your question?
+    validations:
+      required: true

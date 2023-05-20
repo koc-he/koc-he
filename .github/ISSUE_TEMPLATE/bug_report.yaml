@@ -1,0 +1,30 @@
+name: "🐛 Bug Report"
+description: File a bug report
+title: "[Bug] "
+labels: ["bug", "triage"]
+assignees: ["koc-he"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for taking the time to fill out this bug report! I really appreciate it. 😸
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Tell me what you see!
+      value: "There's something wrong with your profile!"
+    validations:
+      required: true
+  - type: textarea
+    id: expected-behaviour
+    attributes:
+      label: Expected Behaviour
+      description: Tell me what you expected to see instead of the bug!
+      value: "Not to see the bug on your profile!"
+    validations:
+      required: true
+  - type: textarea
+    id: other
+    attributes:
+      label: Anything else?
