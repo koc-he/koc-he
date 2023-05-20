@@ -12,6 +12,9 @@ I'm a Software Engineer.
 [⭓ See my portfolio here.](https://hkoske.com)
 <br>
 [⭓ Contact me at this link.](https://hkoske.com/contact)
+<br>
+[⭓ Ask me a question here.](https://github.com/koc-he/koc-he/issues/new?assignees=koc-he&labels=question&projects=&template=question.yaml&title=%5BQuestion%5D+)
+
 
 <!-- Overview -->
 <h1>
