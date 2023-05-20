@@ -1,6 +1,10 @@
+<!-- Banner -->
 ![banner](/images/gh-banner.png)
 
-<h1><img src="/images/icons/titles/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" /> Hello, there!</h1>
+<!-- Introduction -->
+<h1>
+	<img src="/images/icons/titles/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" /> Hello, there!
+</h1>
 
 ### My name is Hannah. 
 I'm a Software Engineer.
@@ -8,22 +12,26 @@ I'm a Software Engineer.
 <a href="https://hkoske.com">See my portfolio here.</a><br>
 <a href="https://hkoske.com/contact">Contact me at this link.</a>
 
-<h1><img src="/images/icons/titles/Star.png" alt="Star" width="40" height="40" /> Overview</h1>
-<img width=515 src="https://grs.hkoske.com/?username=koc-he&count_private=true&include_all_commits=true&bg_color=45,00DBDE,FC00FF&title_color=ffffff&text_color=ffffff&border_radius=10&show_icons=true&icon_color=ffffff" />
-<img width=518 src="https://streak-stats.demolab.com/?user=koc-he&theme=modern-lilac2&border_radius=10&background=000000&border=ffffff" />
-<img src="https://grs.hkoske.com/top-langs?username=koc-he&layout=donut&theme=midnight-purple&border_radius=10" />
+<!-- Overview -->
+<h1>
+	<img src="/images/icons/titles/Star.png" alt="Star" width="40" height="40" /> Overview
+</h1>
+<img width=515 src="https://grs.hkoske.com/?username=koc-he&count_private=true&include_all_commits=true&bg_color=45,00DBDE,FC00FF&title_color=ffffff&text_color=ffffff&border_radius=10&show_icons=true&icon_color=ffffff&hide_border=true" />
+<img width=518 src="https://streak-stats.demolab.com/?user=koc-he&theme=modern-lilac2&border_radius=10&background=000000" />
+<img src="https://grs.hkoske.com/top-langs?username=koc-he&layout=donut&theme=midnight-purple&border_radius=10&hide_border=true" />
 
-
-
-<h1><img src="/images/icons/titles/Rocket.png" alt="Rocket" width="25" height="25" /> Recent Projects</h1>
+<!-- Projects -->
+<h1>
+	<img src="/images/icons/titles/Rocket.png" alt="Rocket" width="25" height="25" /> Recent Projects
+</h1>
 <a href="https://github.com/koc-he/share">
-  <img src="https://grs.hkoske.com/pin?username=koc-he&repo=share&bg_color=45,00DBDE,FC00FF&title_color=ffffff&text_color=ffffff&border_radius=10&show_icons=true&icon_color=ffffff" />
+  <img src="https://grs.hkoske.com/pin?username=koc-he&repo=share&bg_color=45,00DBDE,FC00FF&title_color=ffffff&text_color=ffffff&border_radius=10&show_icons=true&icon_color=ffffff&hide_border=true" />
 </a>
 <a href="https://github.com/koc-he/code-block-annotation">
-<img src="https://grs.hkoske.com/pin?username=koc-he&repo=code-block-annotation&bg_color=45,00DBDE,FC00FF&title_color=ffffff&text_color=ffffff&border_radius=10&show_icons=true&icon_color=ffffff" />
+	<img src="https://grs.hkoske.com/pin?username=koc-he&repo=code-block-annotation&bg_color=45,00DBDE,FC00FF&title_color=ffffff&text_color=ffffff&border_radius=10&show_icons=true&icon_color=ffffff&hide_border=true" />
 </a>
 
-
+<!-- Skills -->
 <h1><img src="/images/icons/titles/Fire.png" alt="Fire" width="40" height="40" /> My Skills</h1>
 
 | Category | Skill List |
