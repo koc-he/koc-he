@@ -10,11 +10,8 @@ I'm a Software Engineer.
 
 <h1><img src="/images/icons/titles/Star.png" alt="Star" width="40" height="40" /> Overview</h1>
 <img width=515 src="https://grs.hkoske.com/?username=koc-he&count_private=true&include_all_commits=true&bg_color=45,00DBDE,FC00FF&title_color=ffffff&text_color=ffffff&border_radius=10&show_icons=true&icon_color=ffffff" />
-<img width=535 src="https://grs.hkoske.com/top-langs?username=koc-he&layout=donut&theme=midnight-purple&border_radius=10" />
-<br>
-<br>
-<br>
 <img width=518 src="https://streak-stats.demolab.com/?user=koc-he&theme=modern-lilac2" />
+<img src="https://grs.hkoske.com/top-langs?username=koc-he&layout=donut&theme=midnight-purple&border_radius=10" />
 
 
 <h1><img src="/images/icons/titles/Fire.png" alt="Fire" width="40" height="40" /> My Skills</h1>
