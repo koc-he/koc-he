@@ -8,9 +8,10 @@
 
 ### My name is Hannah. 
 I'm a Software Engineer.
+
+[⭓ See my portfolio here.](https://hkoske.com)
 <br>
-<a href="https://hkoske.com">See my portfolio here.</a><br>
-<a href="https://hkoske.com/contact">Contact me at this link.</a>
+[⭓ Contact me at this link.](https://hkoske.com/contact)
 
 <!-- Overview -->
 <h1>
@@ -24,10 +25,10 @@ I'm a Software Engineer.
 <h1>
 	<img src="/images/icons/titles/Rocket.png" alt="Rocket" width="25" height="25" /> Recent Projects
 </h1>
-<a href="https://github.com/koc-he/share">
+<a href="https://share-6rr.pages.dev/">
   <img src="https://grs.hkoske.com/pin?username=koc-he&repo=share&bg_color=45,00DBDE,FC00FF&title_color=ffffff&text_color=ffffff&border_radius=10&show_icons=true&icon_color=ffffff&hide_border=true" />
 </a>
-<a href="https://github.com/koc-he/code-block-annotation">
+<a href="https://code-block-annotation.pages.dev/">
 	<img src="https://grs.hkoske.com/pin?username=koc-he&repo=code-block-annotation&bg_color=45,00DBDE,FC00FF&title_color=ffffff&text_color=ffffff&border_radius=10&show_icons=true&icon_color=ffffff&hide_border=true" />
 </a>
 
