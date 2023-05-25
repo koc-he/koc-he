@@ -28,10 +28,10 @@ I'm a Software Engineer.
 <h1>
 	<img src="/images/icons/titles/Rocket.png" alt="Rocket" width="25" height="25" /> Recent Projects
 </h1>
-<a href="https://share-6rr.pages.dev/">
+<a href="https://github.com/koc-he/share">
   <img src="https://grs.hkoske.com/pin?username=koc-he&repo=share&bg_color=45,00DBDE,FC00FF&title_color=ffffff&text_color=ffffff&border_radius=10&show_icons=true&icon_color=ffffff&hide_border=true" />
 </a>
-<a href="https://code-block-annotation.pages.dev/">
+<a href="https://github.com/koc-he/code-block-annotation">
 	<img src="https://grs.hkoske.com/pin?username=koc-he&repo=code-block-annotation&bg_color=45,00DBDE,FC00FF&title_color=ffffff&text_color=ffffff&border_radius=10&show_icons=true&icon_color=ffffff&hide_border=true" />
 </a>
 
