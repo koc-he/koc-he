@@ -23,7 +23,7 @@ I'm a Software Engineer.
 <!-- Contributions -->
 <img width=515 src="https://grs.hkoske.com/?username=koc-he&count_private=true&include_all_commits=true&bg_color=45,00DBDE,FC00FF&title_color=ffffff&text_color=ffffff&border_radius=10&show_icons=true&icon_color=ffffff&hide_border=true&disable_animations=true" />
 <!-- Streak -->
-<img width=518 src="https://streak-stats.demolab.com/?user=koc-he&theme=modern-lilac2&border_radius=10&background=000000&disable_animations=true" />
+<img width=518 src="https://github-readme-streak-stats.herokuapp.com/?user=koc-he&theme=modern-lilac2&border_radius=10&background=000000&disable_animations=true" />
 <!-- Languages -->
 <img src="https://grs.hkoske.com/top-langs?username=koc-he&layout=donut&theme=midnight-purple&border_radius=10&hide_border=true&disable_animations=true" />
 
